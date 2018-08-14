@@ -1,0 +1,13 @@
+name: panda
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  panda:
+    main: src/panda.cr
+
+crystal: 0.24.2
+
+license: MIT
